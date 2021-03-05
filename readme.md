@@ -7,8 +7,10 @@ tal que você pode usar esta solução milhares de vezes, sem nunca fazer a mesm
 
 ## Padrões Criacionais
 
-Os padrões criacionais fornecem vários mecanismos de criação de objetos, que aumentam a flexibilidade e reutilização de código já existente.
-Fornece uma interface para criar objetos em uma superclasse, mas permite que as subclasses alterem o tipo de objetos que serão criados.
+"Os padrões criacionais fornecem vários mecanismos de criação de objetos, que aumentam a flexibilidade e reutilização de código já existente.
+Fornece uma interface para criar objetos em uma superclasse, mas permite que as subclasses alterem o tipo de objetos que serão criados."
+
+-- Chistopher Alexander
 
 ### Factory Method
 
